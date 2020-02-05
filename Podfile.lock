@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Dip (7.0.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Dip
+  - NVActivityIndicatorView
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Dip
+    - NVActivityIndicatorView
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: e386dfbc97690cc4f7b8c0533a77b4bb45a94661
+
+COCOAPODS: 1.8.0
